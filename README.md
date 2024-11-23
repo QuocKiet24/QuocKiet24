@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I’m a fresh frontend developer with a genuine passion for technology and creativity. I’ve had the opportunity to work on some projects, from personal websites to small-scale applications, which have helped me develop my skills and understanding of the field. My skills include: 
+I’m a fresh frontend developer with a genuine passion for technology and creativity. I’ve had the opportunity to work on some projects, from personal websites to small-scale applications, which have helped me develop my skills and understanding of the field. My skills include:
+
 📑 A good foundation in tools and languages like HTML, CSS, and JavaScript for building user-friendly interfaces. 
 📑 Familiarity with frameworks like ReactJS, aiming to improve the performance and maintainability of applications. 
 📑 A collaborative mindset with developing teamwork, communication, and problem-solving abilities. 
